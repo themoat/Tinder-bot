@@ -16,9 +16,12 @@ https://philipperemy.github.io/tinder-deep-learning/
 
 How to run the bot?
 
-1)git clone my project
-2)cd Deep-Learning-Tinder
-3) mv credentials.json.example credentials.json
-4) python main.py
+# 1)git clone my project
+
+# 2)cd Deep-Learning-Tinder
+
+# 3) mv credentials.json.example credentials.json
+
+
 
 
