@@ -19,6 +19,7 @@ How to run the bot?
 git clone my project
 cd Deep-Learning-Tinder
 mv credentials.json.example credentials.json
+python bot.py
 ```
 
 
