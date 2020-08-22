@@ -9,7 +9,7 @@ headers = {
 }
 
 
-# super LIKE '/like/' + likedUserId + '/super'
+# super LIKE '/like/' + likedUserId + '/super'..
 
 
 class User(object):
